@@ -106,7 +106,7 @@ Six columns were created because the raw data could not answer the business ques
 | **Employment_Status_Group** | Collapses three statuses into Active or Terminated | Keeps headcount and retention KPIs simple |
 | **Satisfication_Category** | Maps the 1 to 5 satisfaction score to Very low, Low, Moderate, High, Very High | Makes satisfaction readable on dashboard charts |
 
-[📊 View Worksheet](./Skylite_Group_HR_Workforce_Analysis_Worksheet.xlsx)
+[View Worksheet](./Skylite_Group_HR_Workforce_Analysis_Worksheet.xlsx)
 
 ### Headline KPIs
 
@@ -139,7 +139,7 @@ The recommendations focus on structured early check-ins for new hires, internal 
 
 ***Headline metrics for Skylite Group***
 
-[📊 View Dashboard](./Skylite_HR_Workforce_Pulse_Dashboard_Video.mp4)
+[View Interactive Dashboard](https://drive.google.com/file/d/1wrQqZxmopnmWeH_ZvjqDRG0JBGlO2iOb/view?usp=sharing)
 
 
 ---
