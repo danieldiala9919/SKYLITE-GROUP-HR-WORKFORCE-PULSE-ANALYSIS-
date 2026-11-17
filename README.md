@@ -18,10 +18,8 @@
    - [Objectives](#objectives)
    - [Analysis Focus Areas](#analysis-focus-areas)
 2. [Data Structure & Initial Checks](#2-data-structure--initial-checks)
-   
 3. [Executive Summary](#3-executive-summary)
 4. [Insights Deep Dive](#4-insights-deep-dive)
- 
 5. [Takeaway](#5-takeaway)
 6. [Recommendations](#6-recommendations)
 7. [Assumptions & Caveats](#7-assumptions--caveats)
